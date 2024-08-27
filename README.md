@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JavaNewBieNN
+- 👋 Hi, I’m @NingNie
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing
